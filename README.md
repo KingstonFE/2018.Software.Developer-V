@@ -20,7 +20,7 @@
 > 技術
 - Web : 請使用ASP.Net Core進行開發，Back-End語言使用C#
 - UI : CSS框架，請套用Material UI (https://www.material-ui.com/)
-- Unit Test : 撰寫三個Function的Unit Test，每個Unit Test 務必寫三個
+- Unit Test : 任選系統內的三個Function的Unit Test，每個Unit Test 務必寫三個
 - DataBase : MS SQL，資料庫中的新、增、刪、修，必須撰寫store procedure與資料表進行動作
 
 # Acceptance Criteria
